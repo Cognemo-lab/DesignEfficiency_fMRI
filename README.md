@@ -12,6 +12,6 @@ Getting Started
 
 4. Modify and run the function `'run_efficiency_analysis_wager_fun'`
 
-5. The example design used here is based on the paper ÒNeural Arbitration between Social and Individual Learning SystemsÓ
+5. The example design used here is based on the paper "Neural Arbitration between Social and Individual Learning Systems"
 
 
